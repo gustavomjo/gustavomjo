@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 
 ## Olá👋! Sou o Gustavo Jo, dev Delphi e Frontend!
 
+
 - 🔭 Fortes conhecimentos em Delphi
-- 🌱 Estudando Angular e Typescript
+- 🌱 Angular e Typescript Jr/Pl
 
 **Hard Skills:**
 - Linguagens: Delphi XE 10, C# .NET Core, Typescript
@@ -81,8 +82,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<a href="https://www.linkedin.com/in/gustavojo/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-jo" height="30" />
-<a href="mikizo.jo@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="https://www.linkedin.com/in/gustavojo/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-jo" height="30" /></a>
+<a href="mailto:mikizo.jo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavomjo&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -92,5 +93,3 @@ Here are some ideas to get you started:
 
 
   
-  ##
- 
