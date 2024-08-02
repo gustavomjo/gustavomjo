@@ -82,9 +82,8 @@ Here are some ideas to get you started:
 </div>
 
 <a href="https://www.linkedin.com/in/gustavojo/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gustavo-jo" height="30" />
-<a href="mikizo.jo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<a href="mikizo.jo@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavomjo&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavomjo&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
