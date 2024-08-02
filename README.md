@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 - 🌱 Angular e Typescript Jr/Pl
 
 **Hard Skills:**
-- Linguagens: Delphi XE 10, C# .NET Core, Typescript
-- Frontend: Angular, HTML, CSS
-- Banco de Dados: Firebird
-- Relatórios: QuickReport, FastReport
-- APIs: REST Full, SOAP
-- Sistemas Operacionais: Windows, Linux
-- Versionamento: Tortoise SNV , Git
+- **Linguagens:** Delphi XE 10, C# .NET Core, Typescript
+- **Frontend:** Angular, HTML, CSS
+- **Banco de Dados:** Firebird
+- **Relatórios:** QuickReport, FastReport
+- **APIs:** RESTful, SOAP
+- **Sistemas Operacionais:** Windows, Linux
+- **Versionamento:** Tortoise SVN, Git
 
 
 <div align="left">
