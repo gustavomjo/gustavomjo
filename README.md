@@ -5,10 +5,9 @@ Sou um desenvolvedor especializado em Delphi e Frontend, com experiência em tec
 ### Sobre Mim
 
 - 🔭 **Atualmente**: Trabalhando com Delphi e também em Frontend (Angular, Typescript)
-- 🌱 **Estudando**: Angular e Typescript
 - 👯 **Buscando Colaborações**: Estou aberto a colaborações em projetos inovadores e desafiadores.
 - 🤔 **Procurando Ajuda**: Busco sempre melhorar minhas habilidades e conhecimento em novas tecnologias.
-- 💬 **Pergunte-me Sobre**: Delphi, Angular, Typescript, e desenvolvimento web.
+- 💬 **Pergunte-me Sobre**: Delphi, Angular, Typescript.
 - 📫 **Contato**: Sinta-se à vontade para entrar em contato!
 
 ### Hard Skills
