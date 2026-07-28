@@ -9,7 +9,7 @@ Especialista em **backend .NET e Delphi**, integração de sistemas legados e mo
 ## 🚀 Sobre mim
 
 - 🔭 Atuo com desenvolvimento e sustentação de sistemas ERP de missão crítica
-- ⚙️ Forte experiência em **resolução de incidentes críticos e troubleshooting avançado**
+- ⚙️ Forte experiência em **resolução de incidentes críticos e troubleshooting**
 - 🧠 Foco em **arquitetura, performance e estabilidade de sistemas corporativos**
 - 🔗 Integração de sistemas legados (Delphi) com tecnologias modernas (.NET / APIs)
 - 🌐 Experiência sólida em **frontend com Angular e TypeScript**
